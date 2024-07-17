@@ -1,0 +1,26 @@
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# IntelliJ IDEA project files
+.idea/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Maven specific
+target/
+
+# Gradle specific
+build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
