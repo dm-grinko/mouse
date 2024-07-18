@@ -8,18 +8,17 @@ To use Mouse Mover, follow these steps:
 **Compile the Application:**
 
 ```bash
-Copy code
 javac Main.java
+```
+
 Run the Application:
 
 ```bash
-Copy code
 java Main <interval_in_minutes>
 ```
 Replace <interval_in_minutes> with the interval (in minutes) at which you want the mouse to move. For example:
 
 ```bash
-Copy code
 java Main 10
 ```
 This will move the mouse every 10 minutes.
@@ -27,7 +26,6 @@ This will move the mouse every 10 minutes.
 **Alternatively, if you have the JAR file:**
 
 ```bash
-Copy code
 java -jar ./dist/mouse.jar 10
 ```
 This will move the mouse every 10 minutes using the precompiled JAR file.
